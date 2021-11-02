@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Realme Display Mode Switcher</string>
+    <string name="panel_mode_info">This tools may needs Root Permissions. \nTools is made by Art_Chen</string>
+    <string name="off_mode_title">Normal</string>
+    <string name="srgb_mode_title">sRGB Mode</string>
+    <string name="dci_mode_title_new">DCI-P3 Mode</string>
+    <string name="dc_dimming_mode_title">DC Dimming</string>
+    <string name="set_mode_fail">Set Mode Failed!! Make Sure You have Root Permissions</string>
+    <string name="otg_mode_title">OTG</string>
+</resources>
